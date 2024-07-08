@@ -1,15 +1,15 @@
 - name: Anish Dhanashekar
-  # image: 
-  # imageFun: 
+  image: AnishDhanashekar.jpg
+  imageFun: AnishDhanashekarFun.jpg
   email: eecs16a@, aeroanish@
   pronouns: he/him/his
 - name: Sabriya Alam
   email: eecs16a@, sabriya.alam@
-  # image: SabriyaAlam.jpg
-  # imageFun: SabriyaAlamFun.jpg
+  image: SabriyaAlam.jpg
+  imageFun: SabriyaAlamFun.jpg
   pronouns: she/her/hers
 - name: Moses Won
   email: eecs16a@, moseswon@eecs.
-  # image: 
-  # imageFun: 
+  image: MosesWon.jpg
+  imageFun: MosesWonFun.jpg
   pronouns: they/them/theirs
