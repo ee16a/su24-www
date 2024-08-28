@@ -1,62 +1,62 @@
--   name: Carol Li
-    email: eecs16a.lab@, carol.li@
-    # bio: "Hi everyone! I’m an EECS major, and this will be my fourth semester on 16A course staff. I really enjoyed lab when I took this class, and I hope to provide a similar experience for you all. Outside of the classroom, I enjoy watching TV shows, drinking boba, and have recently been delving back into the fiber arts. I hope you’ll enjoy your time in this course, and feel free to reach out to me! "
-    role: Head Lab
-    image: CarolLi.jpg
-    imageFun: CarolLiFun.jpg
-    pronouns: she/her/hers
--   name: Oscar Gallegos
-    email: oscar.tapia.g@
-    # bio: "Hello! I'm Oscar, I am a third year physics and computer science student, originally from Mexico, but lived in the US for a very big chunk of my life. I like semiconductors, and other cool physics stuff like quantum computers. Outside of school, I like playing video games, hanging out with friends, and watching and playing sports mostly soccer and football. Looking forward to having a good time in lab!"
-    role: Lab TA
-    image: OscarAlbertoTapiaGallegos.jpg
-    imageFun: OscarAlbertoTapiaGallegosFun.jpg
-    pronouns: he/him/his
--   name: Manooshree Patel
-    email: manooshreepatel@
-    # bio: "Hello! I'm a 2nd year PhD student in Education. My research interests focus on how to ease the transition for first year students in EECS. I love to bake sourdough, run along the water, and going to Berkeley Bowl. Very excited to meet and learn with you all this semester! "
-    role: Discussion
-    image: ManooshreePatel.jpg
-    imageFun: ManooshreePatelFun.jpg
-    pronouns: she/her/hers
--   name: SooHyuk Cho
-    email: soohyuk.cho@
-    # bio: "Hi everyone! I’m an EECS major, and this will be my fourth semester on 16A course staff. I really enjoyed lab when I took this class, and I hope to provide a similar experience for you all. Outside of the classroom, I enjoy watching TV shows, drinking boba, and have recently been delving back into the fiber arts. I hope you’ll enjoy your time in this course, and feel free to reach out to me! "
-    role: Discussion
-    image: SooHyukCho.jpg
-    imageFun: SooHyukChoFun.jpg
-    pronouns: he/him/his
--   name: Erik Ma
-    email: erikjma@
-    # bio: "Hi y'all! My name is Erik, and I'm a sophomore majoring in EECS. I'm passionate about building things with my hands, with my main technical interests being in robotics, automation, and embedded systems. I also like to play ultimate frisbee, binge watch TV shows/movies on 2x speed, and collect figurines. I love talking to people so if you ever see me around campus, feel free to say hi!"
-    role: Lab Staff
-    image: ErikMa.jpg
-    imageFun: ErikMaFun.jpg
-    pronouns: he/him/his
--   name: Ayesha Mahfuz
-    email: ayeshamahfuz@
-    # bio: "Hi y'all! My name is Erik, and I'm a sophomore majoring in EECS. I'm passionate about building things with my hands, with my main technical interests being in robotics, automation, and embedded systems. I also like to play ultimate frisbee, binge watch TV shows/movies on 2x speed, and collect figurines. I love talking to people so if you ever see me around campus, feel free to say hi!"
-    role: Lab Staff
-    image: AyeshaMahfuz.jpg
-    pronouns: she/her/hers
--   name: Alex Um
-    email: syeon-um@
-    # bio: "Hi Everyone! I am Alex, a second year from Sunnyvale majoring in IEOR and EECS. This is my second semester on 16a course staff, and I am excited to be teaching again. My technical interests lie in machine learning, algorithms, and circuits. In my free time, I like to play the piano, video games (league, val, gacha games), swim, and watch romcoms. Looking forward to meeting everyone!"
-    role: Lab Staff
-    image: AlexUm.jpg
-    imageFun: AlexUmFun.jpg
-    pronouns: he/him/his
--   name: Thomas Chen
-    email: tochen920@
-    role: Content
-    # bio: "Hi! My name is Thomas and I am a senior studying Computer Science and Applied Math from Portland, Oregon. In my free time I enjoy board games, watching an absurd amount of Youtube, and reading books. I love listening to indie, alternative and folk music but I'm always willing to try out new music. Feel free to talk to me about anything!"
-    image: ThomasChen.jpg
-    imageFun: ThomasChenFun.jpg
-    pronouns: he/him/his
--   name: Edward Lee
-    email: edwardneo@
-    role: Content
-    # bio: "Hi! My name is Thomas and I am a senior studying Computer Science and Applied Math from Portland, Oregon. In my free time I enjoy board games, watching an absurd amount of Youtube, and reading books. I love listening to indie, alternative and folk music but I'm always willing to try out new music. Feel free to talk to me about anything!"
-    image: EdwardLee.jpg
-    imageFun: EdwardLeeFun.jpg
-    pronouns: he/him/his
+# -   name: Carol Li
+#     email: eecs16a.lab@, carol.li@
+#     # bio: "Hi everyone! I’m an EECS major, and this will be my fourth semester on 16A course staff. I really enjoyed lab when I took this class, and I hope to provide a similar experience for you all. Outside of the classroom, I enjoy watching TV shows, drinking boba, and have recently been delving back into the fiber arts. I hope you’ll enjoy your time in this course, and feel free to reach out to me! "
+#     role: Head Lab
+#     image: CarolLi.jpg
+#     imageFun: CarolLiFun.jpg
+#     pronouns: she/her/hers
+# -   name: Oscar Gallegos
+#     email: oscar.tapia.g@
+#     # bio: "Hello! I'm Oscar, I am a third year physics and computer science student, originally from Mexico, but lived in the US for a very big chunk of my life. I like semiconductors, and other cool physics stuff like quantum computers. Outside of school, I like playing video games, hanging out with friends, and watching and playing sports mostly soccer and football. Looking forward to having a good time in lab!"
+#     role: Lab TA
+#     image: OscarAlbertoTapiaGallegos.jpg
+#     imageFun: OscarAlbertoTapiaGallegosFun.jpg
+#     pronouns: he/him/his
+# -   name: Manooshree Patel
+#     email: manooshreepatel@
+#     # bio: "Hello! I'm a 2nd year PhD student in Education. My research interests focus on how to ease the transition for first year students in EECS. I love to bake sourdough, run along the water, and going to Berkeley Bowl. Very excited to meet and learn with you all this semester! "
+#     role: Discussion
+#     image: ManooshreePatel.jpg
+#     imageFun: ManooshreePatelFun.jpg
+#     pronouns: she/her/hers
+# -   name: SooHyuk Cho
+#     email: soohyuk.cho@
+#     # bio: "Hi everyone! I’m an EECS major, and this will be my fourth semester on 16A course staff. I really enjoyed lab when I took this class, and I hope to provide a similar experience for you all. Outside of the classroom, I enjoy watching TV shows, drinking boba, and have recently been delving back into the fiber arts. I hope you’ll enjoy your time in this course, and feel free to reach out to me! "
+#     role: Discussion
+#     image: SooHyukCho.jpg
+#     imageFun: SooHyukChoFun.jpg
+#     pronouns: he/him/his
+# -   name: Erik Ma
+#     email: erikjma@
+#     # bio: "Hi y'all! My name is Erik, and I'm a sophomore majoring in EECS. I'm passionate about building things with my hands, with my main technical interests being in robotics, automation, and embedded systems. I also like to play ultimate frisbee, binge watch TV shows/movies on 2x speed, and collect figurines. I love talking to people so if you ever see me around campus, feel free to say hi!"
+#     role: Lab Staff
+#     image: ErikMa.jpg
+#     imageFun: ErikMaFun.jpg
+#     pronouns: he/him/his
+# -   name: Ayesha Mahfuz
+#     email: ayeshamahfuz@
+#     # bio: "Hi y'all! My name is Erik, and I'm a sophomore majoring in EECS. I'm passionate about building things with my hands, with my main technical interests being in robotics, automation, and embedded systems. I also like to play ultimate frisbee, binge watch TV shows/movies on 2x speed, and collect figurines. I love talking to people so if you ever see me around campus, feel free to say hi!"
+#     role: Lab Staff
+#     image: AyeshaMahfuz.jpg
+#     pronouns: she/her/hers
+# -   name: Alex Um
+#     email: syeon-um@
+#     # bio: "Hi Everyone! I am Alex, a second year from Sunnyvale majoring in IEOR and EECS. This is my second semester on 16a course staff, and I am excited to be teaching again. My technical interests lie in machine learning, algorithms, and circuits. In my free time, I like to play the piano, video games (league, val, gacha games), swim, and watch romcoms. Looking forward to meeting everyone!"
+#     role: Lab Staff
+#     image: AlexUm.jpg
+#     imageFun: AlexUmFun.jpg
+#     pronouns: he/him/his
+# -   name: Thomas Chen
+#     email: tochen920@
+#     role: Content
+#     # bio: "Hi! My name is Thomas and I am a senior studying Computer Science and Applied Math from Portland, Oregon. In my free time I enjoy board games, watching an absurd amount of Youtube, and reading books. I love listening to indie, alternative and folk music but I'm always willing to try out new music. Feel free to talk to me about anything!"
+#     image: ThomasChen.jpg
+#     imageFun: ThomasChenFun.jpg
+#     pronouns: he/him/his
+# -   name: Edward Lee
+#     email: edwardneo@
+#     role: Content
+#     # bio: "Hi! My name is Thomas and I am a senior studying Computer Science and Applied Math from Portland, Oregon. In my free time I enjoy board games, watching an absurd amount of Youtube, and reading books. I love listening to indie, alternative and folk music but I'm always willing to try out new music. Feel free to talk to me about anything!"
+#     image: EdwardLee.jpg
+#     imageFun: EdwardLeeFun.jpg
+#     pronouns: he/him/his
